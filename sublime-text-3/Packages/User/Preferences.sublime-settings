@@ -1,0 +1,15 @@
+{
+	"fade_fold_buttons": false,
+	"font_face": "SourceCodePro",
+	"font_size": 9,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"SideBarEnhancements",
+		"Vintage",
+		"BracketHighlighter"
+	],
+	"tab_size": 2,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

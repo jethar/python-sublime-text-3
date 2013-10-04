@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"AngularJS",
+		"ColorPicker",
+		"Django Manage Commands",
+		"Emmet",
+		"GitGutter",
+		"HTML5",
+		"Jedi - Python autocompletion",
+		"Local History",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Monokai Extended",
+		"RailsCasts Colour Scheme",
+		"SublimeGit",
+		"SublimePythonIDE",
+		"SublimeREPL",
+		"Theme - Soda"
+	]
+}

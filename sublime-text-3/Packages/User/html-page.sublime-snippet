@@ -1,0 +1,31 @@
+<snippet>
+  <content><![CDATA[
+<!DOCTYPE html>
+<!-- saved from ${3:url}  -->
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>Sample Page</title>
+
+  <link href="http://fonts.googleapis.com/css?family=Droid+Sans|Droid+Sans+Mono" rel="stylesheet" type="text/css" />
+  <script type="text/javascript" src=""></script>  
+  <link href="" class="theme" rel="stylesheet" media="screen"  />
+
+  <style>
+    
+  </style>
+</head>
+<body>
+  <h2>Heading 2</h2>
+  ${1:this}
+
+</body>
+</html>
+
+]]></content>
+<tabTrigger>html-page</tabTrigger>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <!-- <tabTrigger>hello</tabTrigger> -->
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
