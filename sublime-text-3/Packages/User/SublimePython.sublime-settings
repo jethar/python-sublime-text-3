@@ -1,0 +1,25 @@
+{
+    // leave empty string to use default system interpreter
+    // e.g. /usr/local/bin/python
+    // or "C:\\Python27\\python.exe"
+    // if you use virtualenvs, then set the absolute path to the virtualenv's
+    // python in your project settings (Project->Edit Project) as in:
+    //
+    // {
+    //     "folders": [
+    //         {
+    //             "path": "XYZ"
+    //         },
+    //         {
+    //             "path": "ABC"
+    //         }
+    //     ],
+    //     "settings":
+    //     {
+    //         "python_interpreter": "/Users/USER/.virtualenvs/PROJECT/bin/python"
+    //     }
+    // }
+    "python_interpreter": "",
+    "python_linting": true
+    // "python_interpreter": "/home/harjeet/.pyenv/versions/3.3.2/bin/python",
+}

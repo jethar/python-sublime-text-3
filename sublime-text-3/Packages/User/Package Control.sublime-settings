@@ -2,20 +2,33 @@
 	"installed_packages":
 	[
 		"AngularJS",
+		"BracketHighlighter",
 		"ColorPicker",
 		"Django Manage Commands",
 		"Emmet",
 		"GitGutter",
+		"HighlightWhitespaces",
 		"HTML5",
 		"Jedi - Python autocompletion",
 		"Local History",
 		"Markdown Extended",
 		"Markdown Preview",
 		"Monokai Extended",
+		"QuickThemes",
 		"RailsCasts Colour Scheme",
+		"RawLineEdit",
+		"SideBarEnhancements",
 		"SublimeGit",
+		"SublimeLinter",
 		"SublimePythonIDE",
 		"SublimeREPL",
 		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"https://github.com/titoBouzout/SideBarEnhancements/tree/st3",
+		"https://github.com/facelessuser/BracketHighlighter/tree/BH2ST3",
+		"https://github.com/SublimeLinter/SublimeLinter/tree/sublime-text-3",
+		"https://github.com/jethar/HighlightWhitespaces/tree/st3"
 	]
 }

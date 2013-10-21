@@ -1,0 +1,8 @@
+{
+    // src:: https://github.com/jethar/HighlightWhitespaces
+    // based on: https://github.com/disq/HighlightWhitespaces
+    "highlight_whitespaces_enabled": false,
+    "highlight_whitespaces_space_highlight_scope_name": "constant",
+    "highlight_whitespaces_single_space": true
+    // "highlight_whitespaces_tab_highlight_scope_name": "invalid"
+}
